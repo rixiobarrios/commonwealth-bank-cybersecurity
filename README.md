@@ -1,4 +1,4 @@
-
+ ![download-3](https://github.com/rixiobarrios/commonwealth-bank-cybersecurity-website/assets/55994508/a4846027-eb19-41d2-9aef-22353cd88ee8)
 
 Task 1
 ## Create a Website
@@ -23,7 +23,7 @@ To complete the Task, follow the steps below:
 Create your Web Page
 
 1. Start by inserting the following boiler-plate code into your index.html file:
-
+```
 <html>
 
   <head>
@@ -41,13 +41,13 @@ Create your Web Page
   </body>
 
 </html>
-
+```
 2. Next, you need to link your index.css file to your index.html file. This is necessary so that the styles you add in the index.css file are applied to your index.html file. To link these files, add the following code between the <head> tags in your index.html file:
-
+```
 <link href="index.css" type="text/css" rel="stylesheet">
-
+```
 3. Next, insert the following boiler-plate code into your index.css file. Feel free to customise this as you would like:
-
+```
 * {
 
 font-family: Arial;
@@ -69,7 +69,7 @@ font-size: 18px;
 color: Gray;
 
 }
-
+```
 4. In your index.html file, update the title text of your website to read ‘Tips for Financial Cybersecurity,’ and update the body text with placeholder values of your choice.
 
 View your Web Page
