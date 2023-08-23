@@ -79,4 +79,36 @@ View your Web Page
 
 3. Experiment with changing or adding new values to the index.css file. These changes will only be reflected when you reopen your index.html file.# commonwealth-bank-cybersecurity-website
 
+### Add Content
+
+1. Review the Additional Resources section below to learn about securing financial accounts and financial cybersecurity. 
+ 
+2. After reviewing the resources, write a list of tips and tricks to help bank clients improve their financial cybersecurity. You may want to break your list up into subheadings that list the tip and include a paragraph that briefly explains it. Aim for your write-up to contain about 300-400 words total.
+ 
+3. Open your index.html file from Task 1 in your code editor. Replace the body text placeholder values with your list of tips for improving financial cybersecurity. Enclose any subheadings in
+``` 
+<h2> tags and any paragraph text in <p> tags.
+```
+4. As in Task 1, navigate to the index.html file in your file manager.
+ 
+5. Click on the index.html file to open it. By default, the page will be launched in your web browser. Review your website to ensure it looks as expected.
+ 
+6. Once you’ve ensured your web page looks right, zip your HTML and CSS files into a single folder, and then submit the zipped file as your deliverable for this Task.
+
+### Add Styles
+
+1. If needed, review the Additional Resources below to review the basics of CSS.
+
+2. Open your index.css and index.html files in your code editor. The index.css file is where you’ll be making the majority of your changes for this Task. However, you may want to add additional tags to your index.html files to explore additional customisation options.
+
+3. Open the index.html file in your browser. As you make style changes in the index.css file, you’ll need to refresh your browser page to see the new changes.
+
+4. Start by customising the background colours on your page. Ensure you use at least one primary colour and at least one secondary colour, as defined in the background section. You can define these colours using their HEX code in the index.css file.
+
+5. Customise your fonts. Ensure that all your font colors and text sizes are correct based on the guidelines above.
+
+6. Continue to experiment with the above customisation options until you’re happy with the appearance of your page.
+
+7. When you’ve met all the requirements in the guidelines above, zip your HTML and CSS files into a single folder. Then, submit the zipped file as your deliverable for this Task.
+
 For a deployed version click [here](https://commonwealth-bank-cybersecurity.netlify.app/)
