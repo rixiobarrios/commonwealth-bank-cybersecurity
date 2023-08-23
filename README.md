@@ -1,6 +1,5 @@
  ![download-3](https://github.com/rixiobarrios/commonwealth-bank-cybersecurity-website/assets/55994508/a4846027-eb19-41d2-9aef-22353cd88ee8)
 
-Task 1
 ## Create a Website
 
 Build a local website with HTML/CSS
@@ -79,3 +78,5 @@ View your Web Page
 2. Click on the file to open it. By default, the page will be launched in your web browser.
 
 3. Experiment with changing or adding new values to the index.css file. These changes will only be reflected when you reopen your index.html file.# commonwealth-bank-cybersecurity-website
+
+For a deployed version click [here](https://commonwealth-bank-cybersecurity.netlify.app/)
