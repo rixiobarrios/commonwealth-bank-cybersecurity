@@ -111,4 +111,17 @@ View your Web Page
 
 7. When you’ve met all the requirements in the guidelines above, zip your HTML and CSS files into a single folder. Then, submit the zipped file as your deliverable for this Task.
 
+### Write a Web Hosting Proposal
+
+1. Review the Additional Resources below to learn how to securely host a website. Be sure to take notes on information that will be relevant for your proposal!
+ 
+2. After reviewing the resources, write up a proposal for how you should go about securely hosting your website. Be sure to communicate any information that will be important to consider when initially setting up your website. Your proposal should also address any potential challenges with securely hosting your website.
+ 
+3. Once you’ve written your proposal, review it for clarity. Is there any more information that you should communicate with your manager?
+ 
+4. Your proposal should be about 300-400 words.
+
+### Proposal Summary: Enhancing Website Security
+(attached as PROPOSAL.md)
+
 For a deployed version click [here](https://commonwealth-bank-cybersecurity.netlify.app/)
